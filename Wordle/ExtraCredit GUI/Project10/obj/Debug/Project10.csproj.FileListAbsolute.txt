@@ -1,0 +1,11 @@
+C:\Users\kushp\source\repos\Project10\obj\Debug\Project10.csproj.AssemblyReference.cache
+C:\Users\kushp\source\repos\Project10\obj\Debug\Project10.csproj.SuggestedBindingRedirects.cache
+C:\Users\kushp\source\repos\Project10\obj\Debug\Project10.Properties.Resources.resources
+C:\Users\kushp\source\repos\Project10\obj\Debug\Project10.csproj.GenerateResource.cache
+C:\Users\kushp\source\repos\Project10\obj\Debug\Project10.csproj.CoreCompileInputs.cache
+C:\Users\kushp\source\repos\Project10\bin\Debug\Project10.exe.config
+C:\Users\kushp\source\repos\Project10\bin\Debug\Project10.exe
+C:\Users\kushp\source\repos\Project10\bin\Debug\Project10.pdb
+C:\Users\kushp\source\repos\Project10\obj\Debug\Project10.Form1.resources
+C:\Users\kushp\source\repos\Project10\obj\Debug\Project10.exe
+C:\Users\kushp\source\repos\Project10\obj\Debug\Project10.pdb
